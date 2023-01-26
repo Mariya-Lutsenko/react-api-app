@@ -1,4 +1,5 @@
 import { Component } from 'react';
+// Библиотека с иконками реакта
 import { ImSearch } from 'react-icons/im';
 import { toast } from 'react-toastify';
 
